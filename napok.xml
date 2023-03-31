@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<napok>
+    <nap datum="2023.03.27.">
+        <min>-2</min>
+        <max>10</max>
+    </nap>
+    <nap datum="2023.03.28.">
+        <min>-3</min>
+        <max>11</max>
+    </nap>
+    <nap datum="2023.03.29.">
+        <min>1</min>
+        <max>12</max>
+    </nap>
+    <nap datum="2023.03.30.">
+        <min>2</min>
+        <max>19</max>
+    </nap>
+<nap datum="2000.01.01."><min>0</min><max>0</max></nap></napok>
